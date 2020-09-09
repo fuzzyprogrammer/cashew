@@ -1,0 +1,72 @@
+/***  id="styleBackgroundColor_02   ***/
+
+#headerFormatNT nav.f1, a.button, .category li:hover .bg,footer,.right-head .icon span, .right-head .icon span::before, .right-head .icon span::after, .headRw_f3.headHr, .clfd-price, .slider-content3 a + a, .slider-content4 a + a, .services-list .ser-icon, a.site-btn, button.site-btn, #middle .ui-tabs-nav .ui-tabs-selected a, #middle .ui-tabs-nav a:hover, #middle .ui-tabs-nav a:focus, #middle .ui-tabs-nav a:active, #middle .ui-tabs-nav .ui-tabs-active a, #middle .ui-tabs-nav .ui-state-active a, footer .headHr, .headHr, .paging a.on, .paging a:hover, a.buttonBig:hover,.bx-wrapper .bx-pager.bx-default-pager a:hover,.bx-wrapper .bx-pager.bx-default-pager a.active,.back, .clfd-details .bx-wrapper .bx-prev, .nslider .bx-wrapper .bx-prev,.clfd-details .bx-wrapper .bx-next, .nslider .bx-wrapper .bx-next, .saleRent .bx-wrapper .bx-prev,.saleRent .bx-wrapper .bx-next, .headFormat.f6, .resort-box2:hover .iconBox, .theme1, .head-bdrb::before, input.button:hover, .hd_frmt_f6_outer{background-color:#3c5c1f;}  
+
+
+
+/***  id="styleBackgroundColor_03  ***/
+
+.ddsmoothmenu > ul > li > a.selected, .ddsmoothmenu ul li a:hover, .ddsmoothmenu ul li.on>a, nav.f3 .ddsmoothmenu ul li a:hover, nav.f3 .ddsmoothmenu > ul > li > a.selected, nav.f3 .ddsmoothmenu ul li a:hover, nav.f3 .ddsmoothmenu ul li.on > a, a.buttonBig,.category .bg, .slider-content h1::after, .slider-content .hd1::after, .fluid_dg_wrap .fluid_dg_pag .fluid_dg_pag_ul li.fluid_dgcurrent, a.button:hover, input.button, .slider-content2 .search-btn, .search-btn, .slider-content3 a, .slider-content4 a, .contact-icon, button.site-btn, #middle .ui-tabs-nav a, #middle .ui-tabs-nav .ui-tabs-disabled a:hover, #middle .ui-tabs-nav .ui-tabs-disabled a:focus, #middle .ui-tabs-nav .ui-tabs-disabled a:active, #tml > ul >li.on > a, #tml > ul > li:hover > a, #footerFormat1 a.button,.project_tml > li.on a, .project_tml > li a:hover,#projectMoreLinksDiv a:hover,.front, #bx-pager ul li a.active, .resort-box .overlay, .clfd-details .bx-wrapper .bx-next:hover, .nslider .bx-wrapper .bx-next:hover, .clfd-details .bx-wrapper .bx-prev:hover, .nslider .bx-wrapper .bx-prev:hover, .borderB::after, .saleRent .bx-wrapper .bx-prev:hover,.saleRent .bx-wrapper .bx-next:hover, .resort-box2 .iconBox, .supHead, .sale, .clfd-icon li:hover, .theme2, .left_Frmt h2 + p::after, #footerFormat1 .button, .head-bdrb::after, .f16-service .back, .ttw-navbg .t2_fixer, .menu.f6-ttw::before, .tour-clfd ul li .h a:before {background-color:#dbaf34;}
+
+
+
+.h2 h2,.project_tml,.shadowList ul li:hover .cdctent.bdrB, .enq-frm input:focus, .enq-frm select:focus, .headFormat.f6::before, .banner_area.f6 .fluid_dg_visThumb.fluid_dgcurrent{border-color:#dbaf34;}
+
+.ttw-navbg::before{border-bottom-color:#dbaf34; }
+
+
+
+/***  id="styleBackgroundColor_04  ***/
+
+.dif, .dif a, a.dif, .dif2 span, .dif2 span a, a:hover, #middle .bxslider .h, #middle .bxslider .h a, div.ddsmoothmobile ul li a:hover, #middle .h2 h2 {color: #176100; }
+
+
+
+/***  id="styleBackgroundColor_05  ***/
+
+#bodyFormatNT.evenOdd section:nth-child(odd), #bodyFormatNT.oddEven section:nth-child(even), .bodycontent,#headerFormatNT nav.f3{background-color:#f0efe7;} 
+
+.headFormat.f6.hd_new.f6-ttw::before{border-bottom-color:#f0efe7; }
+
+.banner_area.f16::before{border-right-color:#f0efe7;}
+
+.f16-service::after{border-left-color:#f0efe7; }
+
+
+
+/***  id="styleBackgroundColor_06  ***/
+
+#bodyFormatNT.evenOdd section:nth-child(even), #bodyFormatNT.oddEven section:nth-child(odd){background-color:#ebe8da;}  
+
+
+
+/***  id="styleBackgroundColor_07  ***/
+
+  html body{background:#192e06; }
+
+
+
+/***  id="styleBackgroundColor_12  ***/
+
+ .headVr{background-color:#fdfbea; }
+
+
+
+/***  id="styleBackgroundColor_13  ***/ 
+
+ .data, .bg{background-color:#fbfaf3; }
+
+
+
+ 
+
+ .tp-box ul li::before{bottom:-24px;background:rgba(255,255,255,0.2); }
+
+.slide-border > li > div{border:1px solid rgba(0,0,0,0.07); }
+
+.enq-frm input[type="text"], .enq-frm input[type="email"], .enq-frm select{border-bottom:2px solid rgba(0,0,0,0.2);color:#444; }
+
+
+
+.bx-wrapper .bx-pager.bx-default-pager a{background:#736b44; }
+
